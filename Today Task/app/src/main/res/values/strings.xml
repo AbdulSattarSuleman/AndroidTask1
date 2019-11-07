@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">16SBSCSM057</string>
+    <string name="your_name">Your Name</string>
+    <string name="close_app">Close App</string>
+    <string name="next">Next</string>
+    <string name="todo">Nothing</string>
+    <string-array name="coursesname">
+        <item>Android Developer</item>
+        <item>Web developer</item>
+    </string-array>
+</resources>
